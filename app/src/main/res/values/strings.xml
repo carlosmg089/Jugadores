@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Jugadores</string>
+
+    <string-array name="Info">
+        <item>Ricardo         Lopez        -  Volante</item>
+        <item>Manuel          Marulanda    -  Arquero</item>
+        <item>Jose            Aparicio     -  Volante</item>
+        <item>Augusto Salazar</item>
+        <item>Alberto Camargo</item>
+        <item>Esteban Ramirez</item>
+        <item>Luis Ordoñez</item>
+        <item>Ivan Duque</item>
+    </string-array>
+
+    <string-array name="Edad">
+        <item>Ricardoe</item>
+        <item>Manuel </item>
+        <item>Jose    </item>
+        <item>Augusto </item>
+        <item>Alberto o</item>
+        <item>Esteban z</item>
+        <item>Luis Ord</item>
+        <item>Ivan Duque</item>
+    </string-array>
+
+</resources>
